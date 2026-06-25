@@ -3,7 +3,7 @@
 # 2022
 # ==================================================
 
-GitUser="syapik96"
+GitUser="reyvoid09-ops"
 #wget https://github.com/${GitUser}/
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
